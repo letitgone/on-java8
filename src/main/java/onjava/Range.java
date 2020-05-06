@@ -7,6 +7,7 @@ package onjava;
 public class Range {
     /**
      * Produce a sequence [0..n)
+     *
      * @param n
      * @return
      */
@@ -20,6 +21,7 @@ public class Range {
 
     /**
      * Produce a sequence [start..end)
+     *
      * @param start
      * @param end
      * @return
@@ -35,6 +37,7 @@ public class Range {
 
     /**
      * Produce sequence [start..end) incrementing by step
+     *
      * @param start
      * @param end
      * @param step

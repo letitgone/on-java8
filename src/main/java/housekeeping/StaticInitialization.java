@@ -54,10 +54,10 @@ public class StaticInitialization {
         new Cupboard();
         System.out.println("main creating new Cupboard()");
         new Cupboard();
-//        table.f2(1);
-//        cupboard.f3(1);
+        //        table.f2(1);
+        //        cupboard.f3(1);
     }
 
-//    static Table table = new Table();
-//    static Cupboard cupboard = new Cupboard();
+    //    static Table table = new Table();
+    //    static Cupboard cupboard = new Cupboard();
 }
